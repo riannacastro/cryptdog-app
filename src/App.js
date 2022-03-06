@@ -1,11 +1,10 @@
-import './App.css';
-import { GiSittingDog } from 'react-icons/gi'
+import '../src/css/App.css'
+import Header from './Header';
 
 function App() {
   return (
     <div className="App">
-      <h1>Cryptdog</h1>
-      < GiSittingDog />
+      <Header />
     </div>
   );
 }
