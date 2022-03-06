@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 import { GiSittingDog } from 'react-icons/gi'
 
 
-export default class Header extends Component {
+export default class Navbar extends Component {
   render() {
     return (
       <div>
